@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>thavma thalassa</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="banner">
+            <video autoplay loop muted plays-inline>
+                <source src="home1.mp4" type="video/mp4">
+            </video>
+            <div class="navbar">
+                <img class="logo" src="logo.png">
+                <ul>
+                    <li><a href="#">Creatures</a></li>
+                    <li><a href="#">SDG 14</a></li>
+                    <li><a href="#">About Us</a></li>
+                </ul>
+            </div>
+            <div class="content">
+                <h1>thávma thálassa</h1>
+                <a class="Welcome"> Have you ever wondered what is lurking under the sea surface?
+                    Did you ever ask if there is something more in the water than meets the eye?
+                    thávma thálassa is a place whre you may find yourself drowning in discoveries of creatures on the sea bed.
+                    A platform that gives you a glimpse of the unSEAn world under the surface.
+                </a>
+                <div>
+                    <button type="button">Explore</button>
+                </div>
+            </div>
+        </div>
+    </body>
+<body> 
+    <link rel="stylesheet" href="style.css">
+
+    <div class="dolphin">
+        <video autoplay loop muted plays-inline>
+            <source src="dolphin.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div class="s1">
+        <h1> Bottlenose Dolphins</h1>     
+    </div>
+    <div class="content1">
+        <link rel="stylesheet" href="style.css">
+        <a><i> Tursiops truncatus </i>  </a>
+        <p> <b> 45 Meters Deep </b> </p>
+
+        <div class="Story1">
+            <link rel="stylesheet" href="style.css">
+            <a> Aristotle was the first to observe cetaceans in their environment and to write down and take notes of his observations. So Aristotle didn't have a camera during that period, but what he did in collaboration with fisherman, when there was a dolphin captured and entangled in the nets but still alive, before releasing it they were creating an artificial notch on the dorsal fin of the dolphin.
+
+            </a>
+        </div>
+    </div>
+</body>
+     <link rel="stylesheet" href="style.css">
+
+     <div class="Whales">
+        <video autoplay loop muted plays-inline>
+            <source src="BLUE WHALE.mp4" type="video/mp4">
+        </video>
+     </div>
+<div class="s2">
+    <h1> Blue Whale </h1>
+</div>
+<div class="content2">
+    <link rel="stylesheet" href="style.css">
+    <a><i> Balaenoptera musculus </i></a>
+    <p><b> 100 Meters Deep </b></p>
+</div>
+<div class="Story2"> 
+    <link rel="stylesheet" href="style.css">
+    <a> First confirmed sighting of blue whales balaenoptera musculus linnaeus, 1758 in the Philippines since the 19th century.</a>
+
+</div>
+<body> 
+    <link rel="stylesheet" href="style.css">
+    <div class="Jelly">
+        <video autoplay loop muted plays-inline>
+            <source src="JELIPISH.mp4" type="video/mp4">
+        </video>
+    </div>
+    </div>
+    <div class="s3">
+        <h1> Moon Jellyfish </h1>
+    </div>
+    <div class="content3">
+        <link rel="stylesheet" href="style.css">
+        <a><i> Aurelia aurita </i></a>
+        <p><b> 182 Meters Deep </b></p>
+    </div>
+    <div class="Story3">
+        <link rel="stylesheet" href="style.css">
+        <a> The Philippines is home of the stingless jellyfish in Sohoton, Bucas Grande of Surigao de Norte. One of the harmless jellyfish are the moon jellyfish. These specie of jellyfish are unique because their stingers are so mild that it is harmless to human beings. This is why people want to experience swimming with</a>
+    </div>
+    
+</body>
+</html>
